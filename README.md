@@ -12,6 +12,8 @@
 
 ![Превью дашборда DataLens](screenshots/datalens_preview.png)
 
+![Превью дашборда DataLens](screenshots/datalens_preview1.png)
+
 Дашборд в DataLens предназначен для детального анализа факторов риска и сегментации пациентов. 
 
 ### Ключевые индикаторы (KPI)
